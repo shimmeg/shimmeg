@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton Efimow (@shimmeg) 
-- 👀 I’m interested in Golang/Java development, microservices and architecturing, Kubernetes/docker, Cloud platforms
-- 🌱 I’m currently learning Golang and Kubernetes, microservices patterns and architectures
-- 💞️ I’m looking to collaborate on golang projects
+- 👀 I’m interested in Blockchain + Golang/Rust development, microservices and architecturing, Kubernetes/docker, Cloud platforms
+- 🌱 I’m currently learning Blockchain development, Kubernetes, microservices patterns
+- 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me: anton@efimow.name, Telegram: @shimmeg, https://www.linkedin.com/in/efimovanton/
 
 <!---
